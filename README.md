@@ -1,4 +1,3 @@
-![MasterHead](https://instagram.fesb6-1.fna.fbcdn.net/v/t51.2885-19/364263248_585211400232420_5047343843468011120_n.jpg?_nc_ht=instagram.fesb6-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2AF-fj05LRpBwaPryifgo9uwViZcFX_MFq7uiRKuhmgaA8aWgKQKGbJaw3mVaTsB9jE&_nc_ohc=t970HkH3pPgQ7kNvgGFJALb&_nc_gid=b3c34ce5db56409ca92c9de6c798a5be&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AYDEx2YZo5V3lD9jWJsWz27_rUEfZf33JJifiME1r_6_nA&oe=678947FA&_nc_sid=7a9f4b)
 
 <h1 align="center">Hi 👋, I'm Berfin</h1>
 <h3 align="center">A passionate frontend developer who wans to be an exclusive full-stack developer from Turkey</h3>
